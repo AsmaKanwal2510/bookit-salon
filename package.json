@@ -1,0 +1,18 @@
+{
+  "name": "bookit-salon",
+  "version": "1.0.0",
+  "description": "Salon booking system with no double bookings. Node + Express + SQLite. Developed by Asma Kanwal.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "author": "Asma Kanwal",
+  "license": "MIT"
+}
